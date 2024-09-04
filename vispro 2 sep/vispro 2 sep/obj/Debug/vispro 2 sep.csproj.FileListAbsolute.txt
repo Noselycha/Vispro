@@ -1,0 +1,10 @@
+C:\Vispro\vispro 2 sep\vispro 2 sep\bin\Debug\vispro 2 sep.exe.config
+C:\Vispro\vispro 2 sep\vispro 2 sep\bin\Debug\vispro 2 sep.exe
+C:\Vispro\vispro 2 sep\vispro 2 sep\bin\Debug\vispro 2 sep.pdb
+C:\Vispro\vispro 2 sep\vispro 2 sep\obj\Debug\vispro 2 sep.csproj.AssemblyReference.cache
+C:\Vispro\vispro 2 sep\vispro 2 sep\obj\Debug\vispro_2_sep.Form1.resources
+C:\Vispro\vispro 2 sep\vispro 2 sep\obj\Debug\vispro_2_sep.Properties.Resources.resources
+C:\Vispro\vispro 2 sep\vispro 2 sep\obj\Debug\vispro 2 sep.csproj.GenerateResource.cache
+C:\Vispro\vispro 2 sep\vispro 2 sep\obj\Debug\vispro 2 sep.csproj.CoreCompileInputs.cache
+C:\Vispro\vispro 2 sep\vispro 2 sep\obj\Debug\vispro 2 sep.exe
+C:\Vispro\vispro 2 sep\vispro 2 sep\obj\Debug\vispro 2 sep.pdb
