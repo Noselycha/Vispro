@@ -45,6 +45,7 @@
             this.label3 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
+            this.btnPrint = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -202,11 +203,22 @@
             this.label1.TabIndex = 34;
             this.label1.Text = "ID Pengguna";
             // 
+            // btnPrint
+            // 
+            this.btnPrint.Location = new System.Drawing.Point(906, 371);
+            this.btnPrint.Name = "btnPrint";
+            this.btnPrint.Size = new System.Drawing.Size(97, 39);
+            this.btnPrint.TabIndex = 51;
+            this.btnPrint.Text = "Print";
+            this.btnPrint.UseVisualStyleBackColor = true;
+            this.btnPrint.Click += new System.EventHandler(this.btnPrint_Click);
+            // 
             // FrmMain
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(12F, 25F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1387, 974);
+            this.Controls.Add(this.btnPrint);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.btnLogout);
             this.Controls.Add(this.btnClear);
@@ -253,5 +265,6 @@
         private System.Windows.Forms.Label label3;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button btnPrint;
     }
 }
